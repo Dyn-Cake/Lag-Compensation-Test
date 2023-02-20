@@ -1,0 +1,10 @@
+name: RGRTest
+version: '${project.version}'
+main: me.dyncake.gun.Main
+api-version: 1.18
+authors: [ Fuzy_Boi ]
+description: Test for the rgr plugin
+commands:
+  myping:
+    usage: /myping
+    description: Get your ping!
